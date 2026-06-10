@@ -11,17 +11,11 @@
   <tr>
     <td width="60%" valign="top">
       
-      ### About Me
-      * 🔭 I’m currently working on **DealBaazar / College Projects**
-      * 🌱 I’m currently learning **React.js, Next.js, and Node.js**
-      * 💬 Ask me about **HTML, CSS, JS, React, Tailwind**
-      * 📫 How to reach me: **hammadshahali080@gmail.com**
-
-      ### Connect with me:
-      <p align="left">
-        <a href="https://linkedin.com/in/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-        <a href="https://facebook.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-      </p>
+      About Me
+      I’m currently working on **DealBaazar / College Projects**
+      I’m currently learning **React.js, Next.js, and Node.js**
+      Ask me about **HTML, CSS, JS, React, Tailwind**
+      How to reach me: **hammadshahali080@gmail.com**
 
     </td>
     <td width="40%" valign="top" align="center">
